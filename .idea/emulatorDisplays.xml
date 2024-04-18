@@ -60,6 +60,63 @@
             </MultiDisplayState>
           </value>
         </entry>
+        <entry key="$USER_HOME$/.android/avd/Pixel_Tablet_API_VanillaIceCream.avd">
+          <value>
+            <MultiDisplayState>
+              <option name="displayDescriptors">
+                <list>
+                  <DisplayDescriptor>
+                    <option name="height" value="1837" />
+                    <option name="width" value="2798" />
+                  </DisplayDescriptor>
+                  <DisplayDescriptor>
+                    <option name="displayId" value="1" />
+                    <option name="height" value="1280" />
+                    <option name="width" value="720" />
+                  </DisplayDescriptor>
+                  <DisplayDescriptor>
+                    <option name="displayId" value="2" />
+                    <option name="height" value="1280" />
+                    <option name="width" value="720" />
+                  </DisplayDescriptor>
+                </list>
+              </option>
+              <option name="panelState">
+                <PanelState>
+                  <option name="splitPanel">
+                    <SplitPanelState>
+                      <option name="proportion" value="0.7953382730484009" />
+                      <option name="firstComponent">
+                        <PanelState>
+                          <option name="displayId" value="0" />
+                        </PanelState>
+                      </option>
+                      <option name="secondComponent">
+                        <PanelState>
+                          <option name="splitPanel">
+                            <SplitPanelState>
+                              <option name="splitType" value="VERTICAL" />
+                              <option name="firstComponent">
+                                <PanelState>
+                                  <option name="displayId" value="1" />
+                                </PanelState>
+                              </option>
+                              <option name="secondComponent">
+                                <PanelState>
+                                  <option name="displayId" value="2" />
+                                </PanelState>
+                              </option>
+                            </SplitPanelState>
+                          </option>
+                        </PanelState>
+                      </option>
+                    </SplitPanelState>
+                  </option>
+                </PanelState>
+              </option>
+            </MultiDisplayState>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
