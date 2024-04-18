@@ -1,5 +1,5 @@
 # eP Display Info
-
+[English](Readme.md) [繁體中文](Readme_tc.md)
 # 介紹
 eP Display Info是一款能夠顯示你Android裝置上螢幕資訊的軟體，能在有新顯示器連接時自動更新螢幕資訊。
 
@@ -12,6 +12,7 @@ eP Display Info是一款能夠顯示你Android裝置上螢幕資訊的軟體，�
 * 系統: Android 11 或更新版本.
 
 ## Screenshots
-![](images/ePDisplayInfo_Pixel8Pro.png)
-![](images/ePDisplayInfo_PixelTablet.png)
-![](images/ePDisplayInfo_Xperia1.png)
+<img src="images/ePDisplayInfo_Pixel8Pro.png" width="300"/>
+<img src="images/ePDisplayInfo_Xperia1.png" width="300"/>
+<br/>
+<img src="images/ePDisplayInfo_PixelTablet.png" width="600"/>
