@@ -13,7 +13,7 @@ This app will update display information automatically when there are new displa
 * System: Android 11 or newer version.
 
 ## Screenshots
-<img src="images/ePDisplayInfo_Pixel8Pro.png" width="300"/>
-<img src="images/ePDisplayInfo_Xperia1.png" width="300"/>
+<img src="images/ePDisplayInfo_Pixel8Pro.png" width="250"/>
+<img src="images/ePDisplayInfo_Xperia1.png" width="250"/>
 <br/>
-<img src="images/ePDisplayInfo_PixelTablet.png" width="600"/>
+<img src="images/ePDisplayInfo_PixelTablet.png" width="500"/>
