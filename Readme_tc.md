@@ -15,7 +15,7 @@ eP Display Info是一款能夠顯示你Android裝置上螢幕資訊的軟體，�
 * 系統: Android 11 或更新版本.
 
 ## Screenshots
-<img src="images/ePDisplayInfo_Pixel8Pro.png" width="300"/>
-<img src="images/ePDisplayInfo_Xperia1.png" width="300"/>
+<img alt="Screenshot1" src="images/ePDisplayInfo_Pixel8Pro.png" width="300"/>
+<img alt="Screenshot2" src="images/ePDisplayInfo_Xperia1.png" width="300"/>
 <br/>
-<img src="images/ePDisplayInfo_PixelTablet.png" width="600"/>
+<img alt="Screenshot3" src="images/ePDisplayInfo_PixelTablet.png" width="600"/>

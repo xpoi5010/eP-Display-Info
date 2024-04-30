@@ -1,0 +1,37 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "com.epstudio.displayinfo",
+  "variantName": "release",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "versionCode": 24050100,
+      "versionName": "24.05.01",
+      "outputFile": "ePDisplayInfo-release.apk"
+    }
+  ],
+  "elementType": "File",
+  "baselineProfiles": [
+    {
+      "minApi": 28,
+      "maxApi": 30,
+      "baselineProfiles": [
+        "baselineProfiles/1/ePDisplayInfo-release.dm"
+      ]
+    },
+    {
+      "minApi": 31,
+      "maxApi": 2147483647,
+      "baselineProfiles": [
+        "baselineProfiles/0/ePDisplayInfo-release.dm"
+      ]
+    }
+  ],
+  "minSdkVersionForDexing": 30
+}
