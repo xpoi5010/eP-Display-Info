@@ -1,5 +1,8 @@
 # eP Display Info
 [English](Readme.md) [繁體中文](Readme_tc.md)
+
+This app is released under GPL v3.0 license.
+
 # Introduction
 eP Display Info is a tool to view information of displays on your Android device. 
 This app will update display information automatically when there are new display plugging in.

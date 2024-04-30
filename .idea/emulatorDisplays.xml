@@ -60,6 +60,120 @@
             </MultiDisplayState>
           </value>
         </entry>
+        <entry key="$USER_HOME$/.android/avd/Pixel_8_Pro_API_32.avd">
+          <value>
+            <MultiDisplayState>
+              <option name="displayDescriptors">
+                <list>
+                  <DisplayDescriptor>
+                    <option name="height" value="3104" />
+                    <option name="width" value="1469" />
+                  </DisplayDescriptor>
+                  <DisplayDescriptor>
+                    <option name="displayId" value="1" />
+                    <option name="height" value="1920" />
+                    <option name="width" value="1080" />
+                  </DisplayDescriptor>
+                </list>
+              </option>
+              <option name="panelState">
+                <PanelState>
+                  <option name="splitPanel">
+                    <SplitPanelState>
+                      <option name="proportion" value="0.6178343892097473" />
+                      <option name="splitType" value="VERTICAL" />
+                      <option name="firstComponent">
+                        <PanelState>
+                          <option name="displayId" value="0" />
+                        </PanelState>
+                      </option>
+                      <option name="secondComponent">
+                        <PanelState>
+                          <option name="displayId" value="1" />
+                        </PanelState>
+                      </option>
+                    </SplitPanelState>
+                  </option>
+                </PanelState>
+              </option>
+            </MultiDisplayState>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/.android/avd/Pixel_8_Pro_API_VanillaIceCream.avd">
+          <value>
+            <MultiDisplayState>
+              <option name="displayDescriptors">
+                <list>
+                  <DisplayDescriptor>
+                    <option name="height" value="3104" />
+                    <option name="width" value="1469" />
+                  </DisplayDescriptor>
+                  <DisplayDescriptor>
+                    <option name="displayId" value="1" />
+                    <option name="height" value="1280" />
+                    <option name="width" value="720" />
+                  </DisplayDescriptor>
+                  <DisplayDescriptor>
+                    <option name="displayId" value="2" />
+                    <option name="height" value="1280" />
+                    <option name="width" value="720" />
+                  </DisplayDescriptor>
+                  <DisplayDescriptor>
+                    <option name="displayId" value="3" />
+                    <option name="height" value="1280" />
+                    <option name="width" value="720" />
+                  </DisplayDescriptor>
+                </list>
+              </option>
+              <option name="panelState">
+                <PanelState>
+                  <option name="splitPanel">
+                    <SplitPanelState>
+                      <option name="proportion" value="0.5049845576286316" />
+                      <option name="firstComponent">
+                        <PanelState>
+                          <option name="displayId" value="0" />
+                        </PanelState>
+                      </option>
+                      <option name="secondComponent">
+                        <PanelState>
+                          <option name="splitPanel">
+                            <SplitPanelState>
+                              <option name="splitType" value="VERTICAL" />
+                              <option name="firstComponent">
+                                <PanelState>
+                                  <option name="splitPanel">
+                                    <SplitPanelState>
+                                      <option name="firstComponent">
+                                        <PanelState>
+                                          <option name="displayId" value="1" />
+                                        </PanelState>
+                                      </option>
+                                      <option name="secondComponent">
+                                        <PanelState>
+                                          <option name="displayId" value="2" />
+                                        </PanelState>
+                                      </option>
+                                    </SplitPanelState>
+                                  </option>
+                                </PanelState>
+                              </option>
+                              <option name="secondComponent">
+                                <PanelState>
+                                  <option name="displayId" value="3" />
+                                </PanelState>
+                              </option>
+                            </SplitPanelState>
+                          </option>
+                        </PanelState>
+                      </option>
+                    </SplitPanelState>
+                  </option>
+                </PanelState>
+              </option>
+            </MultiDisplayState>
+          </value>
+        </entry>
         <entry key="$USER_HOME$/.android/avd/Pixel_Tablet_API_VanillaIceCream.avd">
           <value>
             <MultiDisplayState>

@@ -1,5 +1,8 @@
 # eP Display Info
 [English](Readme.md) [繁體中文](Readme_tc.md)
+
+本程式以GPL v3.0授權協議釋出。根據此協議賦予使用者修改、轉發、轉發經修改版本之權力。
+
 # 介紹
 eP Display Info是一款能夠顯示你Android裝置上螢幕資訊的軟體，能在有新顯示器連接時自動更新螢幕資訊。
 

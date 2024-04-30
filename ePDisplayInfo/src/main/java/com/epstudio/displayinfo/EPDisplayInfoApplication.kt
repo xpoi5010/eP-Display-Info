@@ -9,14 +9,11 @@ class EPDisplayInfoApplication : Application(){
 
     override fun onCreate() {
         super.onCreate()
-        val classee = Class.forName("android.os.ServiceManager")
-        val methodd = classee.getMethod("listServices")
-        val services = methodd.invoke(null)
         container = AppContainerImpl(this)
     }
 
     companion object{
-        const val website : String = "https://www.epstudio.cc"
-        const val privacyPolicy : String = "https://www.epstudio.cc/post/12"
+        const val sourceCode : String = "https://github.com/xpoi5010/eP-Display-Info"
+        const val privacyPolicy : String = "https://github.com/xpoi5010/eP-Display-Info/blob/main/PrivacyPolicy.md"
     }
 }
